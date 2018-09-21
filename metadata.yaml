@@ -1,0 +1,30 @@
+_repo: The-Nootka-Sound-Controversy-A-dissertation_53719
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manning, William R. (William Ray)
+    alias: Manning, William Ray
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '47500'
+    url: http://www.gutenberg.org/2009/agents/47500
+description: ''
+gutenberg_issued: '2016-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53719'
+  lccn: '05033222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Foreign relations -- Great Britain'
+- !lcsh 'Nootka Sound (B.C.)'
+- !lcc 'F1001'
+- !lcsh 'Great Britain -- Foreign relations -- Spain'
+- !lcsh 'Vancouver Island (B.C.) -- History'
+- !lcsh 'Thesis (Ph. D.)'
+- GITenberg
+title: 'The Nootka Sound Controversy: A dissertation'
+url: http://www.gutenberg.org/ebooks/53719
